@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hailey"
+echo "Welcome, Hailey"
